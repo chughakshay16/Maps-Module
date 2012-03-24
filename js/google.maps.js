@@ -1,5 +1,5 @@
 /** 
- * @class Implementation of DynamicMapInterface for Google Maps v3
+ * @class Implementation of DynamicMapInterface for Google Maps 
  *
  * @example var mapObject = new GlobalMapObject();
  *
