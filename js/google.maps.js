@@ -3,7 +3,7 @@
  *
  * @example var mapObject = new GlobalMapObject();
  *
- * @author Marcelo Giovinazzo
+ * @author Akshay Chugh(chughakshay16@gmail.com)
  *
  * @param {Map} config Configuration map {key:value}
  */
